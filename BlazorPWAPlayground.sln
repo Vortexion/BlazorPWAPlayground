@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPWAPlayground.Server", "BlazorPWAPlayground\Server\BlazorPWAPlayground.Server.csproj", "{C973947C-9496-43F9-A78C-740B1C03FC02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPWAPlayground.Client", "BlazorPWAPlayground\Client\BlazorPWAPlayground.Client.csproj", "{DD7EA277-795C-4FF7-ABE7-FB4A2A00024F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPWAPlayground.Shared", "BlazorPWAPlayground\Shared\BlazorPWAPlayground.Shared.csproj", "{B5643441-1203-446D-906C-ACDBCAF5A585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C973947C-9496-43F9-A78C-740B1C03FC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C973947C-9496-43F9-A78C-740B1C03FC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C973947C-9496-43F9-A78C-740B1C03FC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C973947C-9496-43F9-A78C-740B1C03FC02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7EA277-795C-4FF7-ABE7-FB4A2A00024F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7EA277-795C-4FF7-ABE7-FB4A2A00024F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7EA277-795C-4FF7-ABE7-FB4A2A00024F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7EA277-795C-4FF7-ABE7-FB4A2A00024F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5643441-1203-446D-906C-ACDBCAF5A585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5643441-1203-446D-906C-ACDBCAF5A585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5643441-1203-446D-906C-ACDBCAF5A585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5643441-1203-446D-906C-ACDBCAF5A585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93B6BDE8-6F30-49F1-8EF3-1414C5C3CAB2}
+	EndGlobalSection
+EndGlobal
